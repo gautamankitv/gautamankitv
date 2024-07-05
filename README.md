@@ -39,7 +39,7 @@
 ---
 
 <div align="center">
-  ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+  ⚡ Fun fact: Your brain is constantly eating itself.
 </div>
 
 ---
